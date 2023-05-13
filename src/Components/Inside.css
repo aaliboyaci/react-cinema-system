@@ -1,0 +1,33 @@
+.movieButton{
+    margin:10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color:rgb(255, 195, 255);
+    color: #642aab;
+    transition: 500ms;
+    border: none;
+}
+
+.movieButton:hover{
+    color:#642aab;
+    background-color: rgb(255, 195, 255);
+    box-shadow: 2px  2px 20px  rgb(255, 195, 255);
+
+}
+
+#returnButton{
+    margin:10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color:#642aab;
+    color: rgb(255, 195, 255);
+    transition: 500ms;
+    border: none;
+}
+
+#returnButton:hover{
+    color:#642aab;
+    background-color: #f3bdfd;
+    box-shadow: 2px  2px 20px  #f3bdfd;
+
+}
